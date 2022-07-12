@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TossClone2
+//  TossClone
 //
-//  Created by 송시원 on 2022/07/04.
+//  Created by 송시원 on 2022/06/29.
 //
 
 import UIKit
