@@ -18,6 +18,7 @@
 		2D3E64792870364000EFED07 /* StockController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D3E64782870364000EFED07 /* StockController.swift */; };
 		2D3E6482287041F300EFED07 /* TossTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D3E6481287041F300EFED07 /* TossTableViewCell.swift */; };
 		2D3E64842871EEAD00EFED07 /* HeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D3E64832871EEAD00EFED07 /* HeaderUIView.swift */; };
+		2D48AAFA2885C5CE00D87061 /* HeaderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D48AAF92885C5CE00D87061 /* HeaderTableViewCell.swift */; };
 		2D8F40DD2879A2A8000965EE /* TotalityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D8F40DC2879A2A8000965EE /* TotalityViewController.swift */; };
 		2D8F40E1287C53AB000965EE /* TalkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D8F40E0287C53AB000965EE /* TalkViewController.swift */; };
 		2D8F40E3287C5880000965EE /* TalkTableViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D8F40E2287C5880000965EE /* TalkTableViewHeader.swift */; };
@@ -37,6 +38,7 @@
 		2D3E64782870364000EFED07 /* StockController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockController.swift; sourceTree = "<group>"; };
 		2D3E6481287041F300EFED07 /* TossTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TossTableViewCell.swift; sourceTree = "<group>"; };
 		2D3E64832871EEAD00EFED07 /* HeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderUIView.swift; sourceTree = "<group>"; };
+		2D48AAF92885C5CE00D87061 /* HeaderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderTableViewCell.swift; sourceTree = "<group>"; };
 		2D8F40DC2879A2A8000965EE /* TotalityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalityViewController.swift; sourceTree = "<group>"; };
 		2D8F40E0287C53AB000965EE /* TalkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalkViewController.swift; sourceTree = "<group>"; };
 		2D8F40E2287C5880000965EE /* TalkTableViewHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TalkTableViewHeader.swift; path = TossClone/Assets.xcassets/TalkTableViewHeader.swift; sourceTree = SOURCE_ROOT; };
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				2D3E6481287041F300EFED07 /* TossTableViewCell.swift */,
+				2D48AAF92885C5CE00D87061 /* HeaderTableViewCell.swift */,
 				2D3E64832871EEAD00EFED07 /* HeaderUIView.swift */,
 				2D8F40E2287C5880000965EE /* TalkTableViewHeader.swift */,
 			);
@@ -234,6 +237,7 @@
 				2D215255286BD86D007C0A0F /* AppDelegate.swift in Sources */,
 				2D3E64842871EEAD00EFED07 /* HeaderUIView.swift in Sources */,
 				2D215257286BD86D007C0A0F /* SceneDelegate.swift in Sources */,
+				2D48AAFA2885C5CE00D87061 /* HeaderTableViewCell.swift in Sources */,
 				2D8F40E1287C53AB000965EE /* TalkViewController.swift in Sources */,
 				2D3E6475287035E500EFED07 /* UpcomingViewController.swift in Sources */,
 				2D3E64732870358A00EFED07 /* HomeViewController.swift in Sources */,
