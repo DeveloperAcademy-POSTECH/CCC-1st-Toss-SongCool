@@ -1,16 +1,17 @@
 //
-//  CollectionVC.swift
-//  TossClone2
+//  TotalityViewController.swift
+//  TossClone
 //
-//  Created by 송시원 on 2022/07/05.
+//  Created by 송시원 on 2022/07/09.
 //
 
 import UIKit
 
-class CollectionVCell: UIViewController {
+class TotalityViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = .systemBackground
 
         // Do any additional setup after loading the view.
     }
